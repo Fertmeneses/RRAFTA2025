@@ -1,0 +1,90 @@
+Cover:
+
+Chip artístico
+
+% =================== %
+
+Compañías que comercializan diamantes:
+(¡se venden!)
+
+https://thequantuminsider.com/2022/03/31/5-quantum-computing-companies-working-with-nv-centre-in-diamond-technology/
+
+% =================== %
+
+Aplicaciones:
+
+{Explorar}
+https://www.photoniques.com/articles/photon/pdf/2021/02/photon2021107p50.pdf
+
+% % % %
+
+Magnetómetros portables:
+
+Integrated and Portable Magnetometer Based on Nitrogen-Vacancy Ensembles in Diamond
+[Stürner et al. 2021]
+https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/qute.202000111
+
+% % % %
+
+Monitoreo de objetos
+
+On the road with a diamond magnetometer
+[Graham et al. 2025]
+https://www.sciencedirect.com/science/article/abs/pii/S0925963525000020
+
+Magnetometría de sensado cuántico con diamantes integrada a Inteligencia Artificial para el monitoreo en tiempo real de objetos
+[Meneses et al., 2024]
+https://arxiv.org/abs/2502.14683
+
+% % % %
+
+Current mapping
+[Meneses et al., in progress]
+[Wood et al. 2024] https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202405338
+
+% % % %
+
+Image neural activity
+[McCloskey et al. 2022]
+https://pursuit.unimelb.edu.au/articles/diamonds-reveal-neural-secrets
+https://www.nature.com/articles/s41566-022-01064-1
+
+[Barry et al. 2016]
+https://www.pnas.org/doi/epdf/10.1073/pnas.1601513113
+
+% % % %
+
+Sample 2D exploration: magnetic domains
+[Broadway et al. 2020]
+https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.024076
+
+% % % %
+
+Quantum computation
+
+Quantum Brillance
+https://quantumbrilliance.com/
+https://quantumbrilliance.com/quantum-technology-application
+https://quantumpedia.uk/quantum-brilliance-pioneering-the-quantum-computing-industry-with-cutting-edge-technology-room-df1bb0dc6c44
+https://global.fujitsu/en-global/technology/key-technologies/news/ta-fujitsus-diamond-spin-based-quantum-computer-20240909
+https://www.dlr.de/en/latest/news/2022/04/how_diamonds_become_qubits
+
+% % % % 
+
+Biomedical applications
+
+Review Nature
+[Aslam et al. 2023]
+https://www.nature.com/articles/s42254-023-00558-3
+
+
+Sensor for the microenvironment
+[Segawa et al. 2023]
+https://www.sciencedirect.com/science/article/pii/S0079656522000322
+
+Maybe:
+https://www.nature.com/articles/s42004-024-01182-7
+
+% % % % 
+
+High pressure cells {investigar}
