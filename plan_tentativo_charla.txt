@@ -88,3 +88,28 @@ https://www.nature.com/articles/s42004-024-01182-7
 % % % % 
 
 High pressure cells {investigar}
+
+
+
+
+====================================
+
+Image prompts, made in Adobe Firefly:
+
+Concepto_Diamante_Localización:
+"A giant location symbol surrounded by diamonds and magnetic fields"
+
+Concepto_Diamante_Actividad_Neuronal:
+"A brain view from outside, with energetic waves surrounding it, and a single diamond on the bottom right corner"
+
+Concepto_Diamante_Biomedicina_Humano:
+"A human body representing biomedicine research and little diamonds around"
+
+Concepto_Diamante_Biomedicina_Gallina01:
+"A chicken body and health representing biomedicine research and little diamonds around"
+
+Concepto_Diamante_Biomedicina_Gallina02:
+"A chicken body and health representing biomedicine research and little diamonds around"
+
+Concepto_Diamante_Computación_Cuántica:
+"Quantum computer with a large chip on the floor and diamonds in it"
