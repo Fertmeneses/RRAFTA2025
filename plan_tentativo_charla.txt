@@ -48,15 +48,10 @@ Image neural activity
 [McCloskey et al. 2022]
 https://pursuit.unimelb.edu.au/articles/diamonds-reveal-neural-secrets
 https://www.nature.com/articles/s41566-022-01064-1
+https://www.nature.com/articles/s41598-023-32235-x
 
 [Barry et al. 2016]
 https://www.pnas.org/doi/epdf/10.1073/pnas.1601513113
-
-% % % %
-
-Sample 2D exploration: magnetic domains
-[Broadway et al. 2020]
-https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.024076
 
 % % % %
 
